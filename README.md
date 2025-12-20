@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I’m Anson 👋
 
-<!--
-**ansonsaju/ansonsaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student  
+💻 Full-stack web developer  
+☁️ Cloud & open-source enthusiast  
 
-Here are some ideas to get you started:
+I build real-world web applications using modern tools and AI-assisted development,
+with strong focus on **code ownership, testing, and understanding**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** JavaScript (Basics)  
+- **AI / ML:** TensorFlow.js, Google Teachable Machine  
+- **Cloud & Deployment:** Railway, AWS (Basics)  
+- **Tools:** Git, GitHub  
+
+---
+
+## 🚀 Projects
+- **Farmlink** – AI-powered crop disease detection system  
+- **Canteen Management System** – Cart & billing web application  
+- **Dashboards** – Excel, school, and company dashboards  
+- **Portfolio Website** – Personal project showcase  
+
+---
+
+## 🌱 Currently
+- Working on full-stack development projects  
+- Learning open-source contribution workflows  
+- Preparing for **Google Summer of Code (GSoC) 2026**
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: sajusolia@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/anson-saju  
+- 🌐 Portfolio: https://ansonsaju.github.io/protofolio/home
