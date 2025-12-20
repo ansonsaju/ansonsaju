@@ -11,9 +11,9 @@ with strong focus on **code ownership, testing, and understanding**.
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** JavaScript (Basics)  
+- **Backend:** JavaScript 
 - **AI / ML:** TensorFlow.js, Google Teachable Machine  
-- **Cloud & Deployment:** Railway, AWS (Basics)  
+- **Cloud & Deployment:** Railway, AWS 
 - **Tools:** Git, GitHub  
 
 ---
