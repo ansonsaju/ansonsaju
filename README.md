@@ -51,8 +51,8 @@ Consolidated research under **Project Sentinel** including **Project Claudia** (
 
 ## 🎧 Active Hacker Pulse (Now Playing)
 <p align="center">
-  <a href="https://spotify-now-playing.vercel.app/api/now-playing">
-    <img src="https://spotify-now-playing.vercel.app/api/now-playing" alt="Spotify Now Playing" width="400" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31lgz7gxyq2bz2tfyxplciw7fezm&cover_image=true&theme=dark">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lgz7gxyq2bz2tfyxplciw7fezm&cover_image=true&theme=dark" alt="Spotify Now Playing" width="400" />
   </a>
 </p>
 
