@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lowlighter/metrics/master/assets/examples/fingerprint.svg" alt="Biometric Scan" width="200" />
+  <img src="biometric.svg" alt="Biometric Scan" width="200" />
 </p>
 
 <p align="center">
