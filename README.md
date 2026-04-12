@@ -52,9 +52,9 @@
 
 ---
 
-## 🏗️ 3D Architectural Cityscape `[ RECONSTRUCTED ]`
+## 🏗️ 3D Architectural Skyline `[ RESTORED ]`
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/github-metrics.isocalendar.svg" alt="3D Isometric Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-view.svg" alt="3D Architectural Skyline" width="100%" />
 </p>
 
 ---
