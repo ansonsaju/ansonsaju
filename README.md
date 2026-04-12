@@ -1,8 +1,6 @@
 # <p align="center">🛡️ Anson Saju | Security Monolith 🤖</p>
 
-<p align="center">
-  <img src="profile-banner.png" alt="Anson Saju Profile Banner" width="100%">
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF003C&center=true&vCenter=true&width=435&lines=[+REDACTED+]+IDENTIFIED;DECRYPTING+ARCHITECT+LOGS;LEVEL+14+SECURITY+ACCESS;ARCHITECTING+TRUST+IN+AI" alt="Typing SVG" />
