@@ -31,16 +31,7 @@ I specialize in building **Self-Healing Security Systems** and **Adversarial AI 
 ## 🏆 Achievement Vault
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansonsaju&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="Anson's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonsaju&layout=compact&theme=dracula&border_radius=10&hide=html,css" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansonsaju&theme=dracula&border_radius=10" alt="Anson's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansonsaju&theme=dracula&no-bg=true&no-frame=true&column=4&rank=SSS,SS,S,AAA,AA,A" alt="Trophies" />
+  <img src="github-metrics.svg" alt="Anson's Cinematic Intelligence Hub" width="100%" />
 </p>
 
 ---
