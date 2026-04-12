@@ -1,80 +1,78 @@
-# <p align="center">🛡️ Anson Saju | AI Product Engineering & Security Monolith 🤖</p>
+# <p align="center">🛡️ SYSTEM_ACCESS: ANSON_SAJU // ORACLE_MONOLITH </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF023C&height=120&section=header&text=SEARCH_RESULT:_1_MATCH_FOUND&fontSize=30&fontAlignY=40&animation=twinkling" width="100%"/>
+</p>
+
+<!-- BUTTERFLY SWARM OVERLAY -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/world_nexus.svg" alt="World Fusion Nexus" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF023C&center=true&vCenter=true&width=435&lines=LEVEL+14+SECURITY+ACCESS;IDENTITY:+ANSON+SAJU;WORLD+STABILIZED;[+FINGERPRINT+SCAN+ACTIVE+]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7CFF00&center=true&vCenter=true&width=500&lines=>>>+DECIPHERING+IDENTITY...;>>>+AI_PRODUCT_ENGINEER_DETECTED;>>>+HACKER_PULSE:_STABLE;>>>+WELCOME+TO+THE+NEXUS" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/biometric.svg" alt="Biometric Scan" width="150" />
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/biometric.svg" alt="Biometric Scan" width="120" />
 </p>
 
-<p align="center">
-  <a href="https://ansonsaju.github.io/protofolio/"><img src="https://img.shields.io/badge/Cyberpunk-Dossier-FF023C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/anson-saju"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<table align="center">
+<tr>
+<td>
 
----
+## 🏛️ Intelligence Dossier
+`[ ARCHITECT ]` **Lead Developer at Planet Solutions**  
+`[ MISSION ]` Engineering the bridge between abstract AI and industrial reality.  
+`[ LAYER ]` 14 Layers of Active Defense / Project Sentinel.  
+`[ STATUS ]` 8.88 CGPA // AWS Grade A // Hackathon Champion.
 
-## 🏛️ The Monolith Vault | AI Product Engineer
-I serve as the bridge between abstract ML models and production-grade software architecture. **Lead Developer at Planet Solutions**, architecting high-velocity logistics ecosystems and **14 Layers of Active Defense**.
+</td>
+</tr>
+</table>
 
-### 👾 Tactical Intelligence (Snake Mode)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-## 🔬 Flagship Innovation: AI Sizing v3.0
-Definitive AI solution for industrial garment manufacturing.
-- **Support**: 52+ distinct items | **Accuracy**: 85%+ Machine Learning precision.
-- **Velocity**: Reduced processing time by **80%** (30min → Instant).
-- **Engineering**: Supported by a **21-page technical specification** for industrial scalability.
-
-## 🛡️ "Nexus" Active Defense Framework
-Consolidated research under **Project Sentinel** including **Project Claudia** (Adversarial Red Team Agent).
-1. **Polymorphic AST Puzzles**: Mutating JavaScript trees every 15s to obsolete botnets.
-2. **Proof-of-Work (SHA-256)**: Shifting computational cost to attackers.
-3. **QFP Integrity Signatures**: Chaotic math signatures for absolute MitM detection.
-
----
-
-## 🏆 Intelligence Infographic
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/github-metrics.svg" alt="Anson's Cinematic Intelligence Hub" width="100%" />
+<!-- FLOATING BUTTERFLY SPARK -->
+<p align="right">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMjAgQyAxNSAxNSwgMjAgMTAsIDI1IDIwIEMgMjAgMzAsIDE1IDMwLCAxNSAyMCBNMTUgMjAgQyAxNSAxNSwgMTAgMTAsIDUgMjAgQyAxMCAzMCwgMTUgMzAsIDE1IDIwIiBmaWxsPSIjMDBFQkZGIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJzY2FsZSIgdmFsdWVzPSIxIDE7IDAuMiAxOyAxIDEiIGR1cj0iMC4zcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNMCAwIEMgNSAtNSwgMTUgNSwgNSAxMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgo8L3N2Zz4=" width="40" />
 </p>
 
 ---
 
-## 🎧 Active Hacker Pulse (Now Playing)
+## 🔬 Core Innovations
+### AI SIZING v3.0 `[ INDUSTRIAL GRADE ]`
+- **precision**: 85.4% Machine Learning Accuracy.
+- **efficiency**: 80% Reduction in Production Latency.
+- **scalability**: Full technical specification for 52+ garment items.
+
+## 🛡️ "Nexus" Active Defense `[ EXPERIMENTAL ]`
+`[ PROTOCOL_CLAUDIA ]` Adversarial Red Team Simulation.  
+`[ PROTOCOL_SENTINEL ]` Polymorphic AST Mutators & chaotic Math integrity.
+
+<!-- FLOATING BUTTERFLY SPARK -->
+<p align="left">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMjAgQyAxNSAxNSwgMjAgMTAsIDI1IDIwIEMgMjAgMzAsIDE1IDMwLCAxNSAyMCBNMTUgMjAgQyAxNSAxNSwgMTAgMTAsIDUgMjAgQyAxMCAzMCwgMTUgMzAsIDE1IDIwIiBmaWxsPSIjN0NGRjAwIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJzY2FsZSIgdmFsdWVzPSIxIDE7IDAuMiAxOyAxIDEiIGR1cj0iMC40cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNMCAwIEMgLTUgNSwgLTUgMTUsIC0xMCAtNSIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgo8L3N2Zz4=" width="40" />
+</p>
+
+---
+
+## 🏗️ 3D Contribution Architecture
 <p align="center">
-  <a href="https://open.spotify.com/user/31lgz7gxyq2bz2tfyxplciw7fezm">
-    <img src="https://img.shields.io/badge/Spotify-Active_Heartbeat-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Heartbeat" />
-  </a>
-  <br/>
-  <br/>
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Skyline Contribution" width="100%" />
+</p>
+
+---
+
+## 🎧 Active Pulse `[ LIVE_MONITOR ]`
+<p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" alt="Recent/Now Playing Tracker" />
 </p>
 
 ---
 
-## 🏗️ 3D Architectural Skyline
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-view.svg" alt="3D Skyline Contribution" width="100%" />
-</p>
-
----
-
 ## 🛠️ Laboratory Stack
-- **Directives:** PHP (Expert), Node.js, Python (ML Focus), C#, MySQL
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3
-- **Intelligence:** TensorFlow.js, Flask, Google Teachable Machine, Ollama 
-- **Validation:** AWS Fundamentals (Grade A), K-DISC Young Innovators 6.0
-- **Honors:** 1st Prize State Level 'Hunt Hack Hustle' Hackathon | 8.88 CGPA Candidate
+`DIRECTIVES:` PHP, Node.js, Python (ML Focus), C#  
+`INTELLIGENCE:` TensorFlow.js, Flask, Ollama  
+`VALIDATION:` AWS (Grade A), K-DISC Innovator 6.0
 
 ---
 
@@ -83,5 +81,5 @@ Consolidated research under **Project Sentinel** including **Project Claudia** (
 </p>
 
 <p align="center">
-  <code>SEC_LEVEL: 14 // IDENTITY_VERIFIED // CGPA_8.88 // ARCHITECT_S_LOG_EOF</code>
+  <code>EOF // CONNECTION_SECURE // ARCHITECT_LOG_001</code>
 </p>
