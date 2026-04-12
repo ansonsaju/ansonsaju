@@ -1,85 +1,94 @@
-# <p align="center">🛡️ SYSTEM_ACCESS: ANSON_SAJU // ORACLE_MONOLITH </p>
+# <p align="center">🛡️ SYSTEM_ACCESS // ANSON_SAJU // MONOLITH_OP_PROTOCOL </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FF023C&height=120&section=header&text=SEARCH_RESULT:_1_MATCH_FOUND&fontSize=30&fontAlignY=40&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF023C&height=120&section=header&text=SEARCH:_THE_MONOLITH&fontSize=40&fontAlignY=40&animation=twinkling" width="100%"/>
 </p>
 
-<!-- BUTTERFLY SWARM OVERLAY -->
+<!-- THE OP WORLD FUSION BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/world_nexus.svg" alt="World Fusion Nexus" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7CFF00&center=true&vCenter=true&width=500&lines=>>>+DECIPHERING+IDENTITY...;>>>+AI_PRODUCT_ENGINEER_DETECTED;>>>+HACKER_PULSE:_STABLE;>>>+WELCOME+TO+THE+NEXUS" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/nexus_op.png" alt="OP World Fusion" width="100%" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=7CFF00&center=true&vCenter=true&width=600&lines=>>>+INITIATING_GOD_MODE...;>>>+FUSING_NATURE_AND_SILICON;>>>+BUTTERFLY_SWARM_ACTIVE;>>>+ACCESS_GRANTED_LEVEL_14" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <!-- PRIMARY BIOMETRIC CORE -->
   <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/biometric.svg" alt="Biometric Scan" width="120" />
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="10">
 <tr>
-<td>
+<td width="55%" valign="top">
 
-## 🏛️ Intelligence Dossier
-`[ ARCHITECT ]` **Lead Developer at Planet Solutions**  
-`[ MISSION ]` Engineering the bridge between abstract AI and industrial reality.  
-`[ LAYER ]` 14 Layers of Active Defense / Project Sentinel.  
-`[ STATUS ]` 8.88 CGPA // AWS Grade A // Hackathon Champion.
+## 🏛️ The Architect's Dossier
+`[ IDENTITY ]` **Anson Saju**  
+`[ CLASS ]` **AI Product Engineer / Security Architect**  
+`[ MISSION ]` Solving human-scale bottlenecks with silicon-scale intelligence.  
+`[ LOCATION ]` Planet Solutions // Security Hub.
+
+### 🔬 OP Innovations
+- **AI Sizing v3.0**: 85.4% Accuracy | 80% Faster Production.
+- **Protocol Claudia**: Adversarial AI Simulation Engine.
+- **Protocol Sentinel**: Polymorphic Defense Matrix.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+## ⚡ Live System Monitor
+<img src="https://github-readme-stats.vercel.app/api?username=ansonsaju&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF023C&icon_color=FF023C&text_color=7CFF00" width="100%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonsaju&layout=compact&theme=tokyonight&hide_border=true&title_color=FF023C&text_color=7CFF00" width="100%" />
 
 </td>
 </tr>
 </table>
 
-<!-- FLOATING BUTTERFLY SPARK -->
-<p align="right">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMjAgQyAxNSAxNSwgMjAgMTAsIDI1IDIwIEMgMjAgMzAsIDE1IDMwLCAxNSAyMCBNMTUgMjAgQyAxNSAxNSwgMTAgMTAsIDUgMjAgQyAxMCAzMCwgMTUgMzAsIDE1IDIwIiBmaWxsPSIjMDBFQkZGIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJzY2FsZSIgdmFsdWVzPSIxIDE7IDAuMiAxOyAxIDEiIGR1cj0iMC4zcyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNMCAwIEMgNSAtNSwgMTUgNSwgNSAxMCIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgo8L3N2Zz4=" width="40" />
-</p>
+<!-- FLOATING BUTTERFLY SWARM (SCATTERED) -->
+<div align="center">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwIiB2aWV3Qm94PSIwIDAgODAwIDYwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxzdHlsZT4KICAgIC5idXR0ZXJmbHkgewogICAgICBmaWxsbDogIzAwRUJGRjsKICAgICAgb3BhY2l0eTogMC43OwogICAgICBmaWx0ZXI6IGRyb3Atc2hhZG93KDAgMCAzcHggIzAwRUJGRik7CiAgICB9CiAgPC9zdHlsZT4KICA8ZyBjbGFzcz0iYnV0dGVyZmx5Ij4KICAgIDxwYXRoIGQ9Ik0wIDAgQyAxIC0yLCAzIC0yLCA0IDAgQyAzIDIsIDEgMiwgMCAwIE0wIDAgQyAtMSAtMiwgLTMgLTIsIC00IDAgQyAtMyAyLCAtMSAyLCAwIDAiPgogICAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InNjYWxlIiB2YWx1ZXM9IjEgMTsgMC4yIDE7IDEgMSIgZHVyPSIwLjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgICAgPGFuaW1hdGVNb3Rpb24gcGF0aD0iTTEwMCAzMCBDIDMwMCAwLCA1MDAgNjAsIDcwMCAzMCIgZHVyPSIxMHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPC9wYXRoPgogICAgPHBhdGggZD0iTTAgMCBDIDEgLTIsIDMgLTIsIDQgMCBDIDMgMiwgMSAyLCAwIDAgTTAgMCBDIC0xIC0yLCAtMyAtMiwgLTQgMCBDIC0zIDIsIC0xIDIsIDAgMCI+CiAgICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0ic2NhbGUiIHZhbHVlcz0iMSAxOyAwLjIgMTsgMSAxIiBkdXI9IjAuM3MiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNNzAwIDUwIEMgNTAwIDEwLCAzMDAgNDAsIDEwMCAxMCIgZHVyPSIxMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPgogICAgPC9wYXRoPgogIDwvZz4KPC9zdmc+" width="100%" />
+</div>
 
 ---
 
-## 🔬 Core Innovations
-### AI SIZING v3.0 `[ INDUSTRIAL GRADE ]`
-- **precision**: 85.4% Machine Learning Accuracy.
-- **efficiency**: 80% Reduction in Production Latency.
-- **scalability**: Full technical specification for 52+ garment items.
-
-## 🛡️ "Nexus" Active Defense `[ EXPERIMENTAL ]`
-`[ PROTOCOL_CLAUDIA ]` Adversarial Red Team Simulation.  
-`[ PROTOCOL_SENTINEL ]` Polymorphic AST Mutators & chaotic Math integrity.
-
-<!-- FLOATING BUTTERFLY SPARK -->
-<p align="left">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA0MCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTUgMjAgQyAxNSAxNSwgMjAgMTAsIDI1IDIwIEMgMjAgMzAsIDE1IDMwLCAxNSAyMCBNMTUgMjAgQyAxNSAxNSwgMTAgMTAsIDUgMjAgQyAxMCAzMCwgMTUgMzAsIDE1IDIwIiBmaWxsPSIjN0NGRjAwIiBvcGFjaXR5PSIwLjYiPgogICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlTmFtZT0idHJhbnNmb3JtIiB0eXBlPSJzY2FsZSIgdmFsdWVzPSIxIDE7IDAuMiAxOyAxIDEiIGR1cj0iMC40cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgICA8YW5pbWF0ZU1vdGlvbiBwYXRoPSJNMCAwIEMgLTUgNSwgLTUgMTUsIC0xMCAtNSIgZHVyPSI2cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9wYXRoPgo8L3N2Zz4=" width="40" />
-</p>
-
----
-
-## 🏗️ 3D Contribution Architecture
+## 🏗️ 3D Architectural Cityscape `[ RECONSTRUCTED ]`
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Skyline Contribution" width="100%" />
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/github-metrics.isocalendar.svg" alt="3D Isometric Contributions" width="100%" />
 </p>
 
 ---
 
-## 🎧 Active Pulse `[ LIVE_MONITOR ]`
+<table align="center" border="0" cellpadding="10">
+<tr>
+<td width="33%">
+
+### 🎮 Pulse
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" width="100%"/>
+</td>
+<td width="33%">
+
+### 🛡️ Secure Connectivity
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" alt="Recent/Now Playing Tracker" />
+  <a href="https://ansonsaju.github.io/protofolio/"><img src="https://img.shields.io/badge/Dossier-FF023C?style=for-the-badge&logo=visual-studio-code" width="100%"/></a>
 </p>
+</td>
+<td width="33%">
 
----
-
-## 🛠️ Laboratory Stack
-`DIRECTIVES:` PHP, Node.js, Python (ML Focus), C#  
-`INTELLIGENCE:` TensorFlow.js, Flask, Ollama  
-`VALIDATION:` AWS (Grade A), K-DISC Innovator 6.0
+### 🏆 Honors
+- 1st Prize Hackathon
+- 8.88 CGPA Candidate
+- AWS Grade A
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF023C&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF023C&height=60&section=footer&text=EOF:_CONNECTION_LOCKED&fontSize=20&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <code>EOF // CONNECTION_SECURE // ARCHITECT_LOG_001</code>
+  <code>SEC_LEVEL: 14 // IDENTITY_VERIFIED // OP_MODE_ENABLED // ARCHITECT_LOG_EOF</code>
 </p>
