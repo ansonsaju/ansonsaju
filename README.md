@@ -72,11 +72,18 @@
 
 ---
 
-### 🎮 Spotify Pulse `[ RE-AUTHORIZATION_REQUIRED ]`
+### 🎵 Ambient Sound Matrix `[ ACTIVE_PLAYLIST ]`
+
 <p align="center">
-  <a href="https://spotify-recently-played-readme.vercel.app/"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" width="100%"/></a>
+  <a href="https://open.spotify.com/playlist/409qVT0t0vOHuEA7c07AJr">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31lgz7gxyq2bz2tfyxplciw7fezm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interact=true" alt="Spotify Playlist" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anshul-Goel/Spotify-Live-Visualizer/master/visualizer.gif" alt="Ambient Visualizer" width="100%" />
   <br/>
-  <code>>>> ACTION: CLICK THE BAR ABOVE TO RE-AUTHORIZE SPOTIFY <<<</code>
+  <code>>>> SYSTEM_MOOD: AMBIENT_CYBERPUNK // CLICK_PLAYER_TO_INITIATE_AUDIO <<<</code>
 </p>
 
 ---
