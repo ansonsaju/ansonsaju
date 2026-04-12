@@ -48,28 +48,19 @@
 
 ---
 
-<table align="center" border="0" cellpadding="10">
-<tr>
-<td width="50%" valign="top">
+## 📊 Legacy Status Monitor `[ STABILIZED_PROTOCOLS ]`
 
-### ⚡ System Resources
-<img src="https://github-readme-stats.vercel.app/api?username=ansonsaju&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF023C&icon_color=FF023C&text_color=7CFF00" width="100%" />
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Core Technologies
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonsaju&layout=compact&theme=tokyonight&hide_border=true&title_color=FF023C&text_color=7CFF00" width="100%" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/github-metrics.svg" alt="Core Metrics" width="100%" />
+</p>
 
 ---
 
-### 🎮 Spotify Pulse `[ LIVE_CONNECTION ]`
+### 🎮 Spotify Pulse `[ RE-AUTHORIZATION_REQUIRED ]`
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" width="100%"/>
+  <a href="https://spotify-recently-played-readme.vercel.app/"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31lgz7gxyq2bz2tfyxplciw7fezm&count=1&theme=dark" width="100%"/></a>
+  <br/>
+  <code>>>> ACTION: CLICK THE BAR ABOVE TO RE-AUTHORIZE SPOTIFY <<<</code>
 </p>
 
 ---
