@@ -1,0 +1,65 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- CLIP FOR THE WORLD RENDERING -->
+    <clipPath id="clip">
+      <rect width="800" height="400" rx="20"/>
+    </clipPath>
+    
+    <!-- BUTTERFLY SHAPE -->
+    <path id="butterfly" d="M0 0 C 1 -2, 3 -2, 4 0 C 3 2, 1 2, 0 0 M0 0 C -1 -2, -3 -2, -4 0 C -3 2, -1 2, 0 0" fill="#00EBFF" opacity="0.8">
+      <animateTransform attributeName="transform" type="scale" values="1 1; 0.2 1; 1 1" dur="0.2s" repeatCount="indefinite" />
+    </path>
+
+    <!-- GLOW EFFECT -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <!-- THE 3D WORLD BASE -->
+    <image href="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/nexus_world.png" width="800" height="400" preserveAspectRatio="xMidYMid slice" />
+    
+    <!-- FLOATING BUTTERFLIES -->
+    <!-- Butterfly 1 -->
+    <g filter="url(#glow)">
+      <use href="#butterfly" x="0" y="0">
+        <animateMotion path="M100 300 C 150 200, 250 350, 400 200 S 600 50, 750 150" dur="10s" repeatCount="indefinite" />
+      </use>
+    </g>
+    
+    <!-- Butterfly 2 -->
+    <g filter="url(#glow)">
+      <use href="#butterfly" x="0" y="0" style="fill: #FF00E4;">
+        <animateMotion path="M700 350 C 600 250, 400 300, 300 150 S 100 100, 50 200" dur="12s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+    <!-- Butterfly 3 (Nature Side) -->
+    <g filter="url(#glow)">
+      <use href="#butterfly" x="0" y="0" style="fill: #7CFF00;">
+        <animateMotion path="M500 50 C 550 150, 650 100, 700 300 S 550 350, 450 380" dur="8s" repeatCount="indefinite" />
+      </use>
+    </g>
+
+    <!-- Butterfly 4 (Tech Side) -->
+    <g filter="url(#glow)">
+      <use href="#butterfly" x="0" y="0" style="fill: #008DFF;">
+        <animateMotion path="M100 100 C 50 150, 200 200, 150 300 S 300 350, 400 250" dur="15s" repeatCount="indefinite" />
+      </use>
+    </g>
+  </g>
+
+  <!-- OVERLAY GRADIENT FOR CYBERPUNK FEEL -->
+  <rect width="800" height="400" fill="url(#grad)" opacity="0.2" pointer-events="none" rx="20"/>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FF003C;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00EBFF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
