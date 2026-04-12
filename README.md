@@ -32,6 +32,12 @@
 `[ LOCATION ]`  
 **Security Hub**
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anson-saju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/></a><br/>
+  <a href="https://ansonsaju.github.io/protofolio/"><img src="https://img.shields.io/badge/Dossier-FFD700?style=for-the-badge&logo=visual-studio-code&logoColor=black" width="100%"/></a><br/>
+  <a href="https://www.instagram.com/anson_saju?igsh=bDBibmZ4cXRmNmY0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100%"/></a>
+</p>
+
 </td>
 <td width="33%" valign="top" align="center">
 
@@ -49,6 +55,15 @@
 `[ CLOUD ]` **AWS Grade A**  
 `[ TROPHY ]` **Hackathon 1st**  
 `[ INTEL ]` **Lead Dev**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+</p>
 
 </td>
 </tr>
