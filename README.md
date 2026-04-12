@@ -22,6 +22,10 @@
 
 ## 🏛️ The Architect's Dossier `[ IDENTITY_VERIFIED ]`
 
+<table align="center" border="0" cellpadding="10">
+<tr>
+<td width="60%" valign="top">
+
 ### 👤 Identity Summary
 - **Name:** Anson Saju
 - **Class:** AI Product Engineer / Security Architect
@@ -32,7 +36,19 @@
 - **8.88 CGPA Candidate** (Pre-Final Year B.Tech CSE)
 - **AWS Certified Architect** (Grade A Achievement)
 - **1st Prize - Hunt Hack Hustle (HHT)** Hackathon Winner
-- **Lead Developer** (Identified critical vulnerabilities in enterprise systems)
+- **Lead Developer** (Identified critical vulnerabilities)
+
+</td>
+<td width="40%" align="center">
+
+### 🤖 System Guardian `[ ULTRA_RARE ]`
+<img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/guardian.png" alt="Golden Guardian" width="100%" />
+<br/>
+<code>STATUS: DEFENSE_ACTIVE</code>
+
+</td>
+</tr>
+</table>
 
 ### 🔬 OP Innovations
 - **AI Sizing v3.0**: 85.4% Accuracy | 80% Faster Production.
