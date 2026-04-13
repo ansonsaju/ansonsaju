@@ -134,7 +134,7 @@
 <td width="50%" valign="top" align="center">
 
 ### 🏙️ SKYLINE_VIEW
-<img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-view.svg" alt="3D Skyline" width="100%" />
+<img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Skyline" width="100%" />
 
 </td>
 </tr>
