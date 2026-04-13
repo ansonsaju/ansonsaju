@@ -91,7 +91,7 @@
 
 ### 🎗️ ELITE_ACHIEVEMENTS // TROPHY_MONITOR
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansonsaju&theme=cyberpunk&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+  <img src="https://github-profile-trophy-kappa.vercel.app/?username=ansonsaju&theme=cyberpunk&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
 </p>
 
 <table align="center" border="0" cellpadding="10" width="100%">
