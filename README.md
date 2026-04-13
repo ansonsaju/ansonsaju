@@ -109,8 +109,8 @@
 
 ### 📊 GLOBAL_SYSTEM_METRICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansonsaju&show_icons=true&theme=tokyonight&bg_color=050505&title_color=FFDF00&text_color=a1a1a6&icon_color=FFDF00&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansonsaju&layout=compact&theme=tokyonight&bg_color=050505&title_color=FFDF00&text_color=a1a1a6&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api?username=ansonsaju&show_icons=true&theme=tokyonight&bg_color=050505&title_color=FFDF00&text_color=a1a1a6&icon_color=FFDF00&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-kappa.vercel.app/api/top-langs/?username=ansonsaju&layout=compact&theme=tokyonight&bg_color=050505&title_color=FFDF00&text_color=a1a1a6&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
