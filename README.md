@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🛡️ <b>SYSTEM_ARCHITECT // AI_ENGINEER // CYBER_SENTINEL</b>
+  🛡️ <b>AI_SECURITY_ARCHITECT // FULL-STACK_DEVELOPER // CYBER_SENTINEL</b>
 </p>
 
 <hr/>
@@ -65,9 +65,20 @@
 - **TITAN-CORE**: Dual-Shield AI Security Engine
 - **AI Sizing v3.0**: 85.4% Accuracy | 80% Faster
 - **Protocol Claudia**: Adversarial AI Engine
-- **Protocol Sentinel**: Polymorphic Defense
+- **Protocol Sentinel**: Polymorphic Defense 
 
 </td>
+<td width="50%" valign="top">
+
+### 🛠️ EXPERTISE_MATRIX
+- `[ STACK ]` **Next.js / Node.js / TypeScript**
+- `[ INTELLIGENCE ]` **Agentic AI / LLM Security**
+- `[ INFRA ]` **AWS / Docker / Terraform**
+- `[ SECURITY ]` **Reverse Engineering / Bug Bounty**
+
+</td>
+</tr>
+</table>
 <td width="50%" valign="top" align="center">
 
 ### 🕹️ PROTOCOL_RUNNER
