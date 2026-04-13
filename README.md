@@ -163,3 +163,7 @@
 <p align="center">
   <code>SEC_LEVEL: 14 // MONOLITH_STABILIZED // OP_MODE_ENABLED // ARCHITECT_LOG_EOF</code>
 </p>
+
+<p align="center">
+  <sub>Constructed in collaboration with <b>Antigravity</b> // AI Augmented Coder</sub>
+</p>
