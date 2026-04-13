@@ -89,6 +89,39 @@
 
 <hr/>
 
+### 🎗️ ELITE_ACHIEVEMENTS // TROPHY_MONITOR
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ansonsaju&theme=cyberpunk&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+</p>
+
+<table align="center" border="0" cellpadding="10" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ BOUNTY_BOARD
+- **TOYOTA**: Critical Sys_Leak `[ HackerOne ]`
+- **SAMSUNG**: Forensic Monitor Bypass `[ Intel ]`
+- **HACKATHON**: 1st Place Champion `[ Elite ]`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🎖️ RECOGNITION_LOG
+`[ LEVEL ]` **Master Architect**  
+`[ STATUS ]` **Top_Tier**  
+`[ INTEL ]` **Cyber_Sentinel**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bounty-Toyota-FFDF00?style=for-the-badge&logo=hackerone&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Security-Samsung-FFDF00?style=for-the-badge&logo=samsung&logoColor=black" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
 
 <table align="center" border="0" cellpadding="10" width="100%">
 <tr>
