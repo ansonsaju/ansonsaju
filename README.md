@@ -101,7 +101,7 @@
 ## 🕹️ MISSION_CONTROL // PROTOCOL_RUNNER `[ ACTIVE ]`
 
 <p align="center">
-  <a href="https://ansonsaju.github.io/ansonsaju/dino-game/">
+  <a href="https://ansonsaju.github.io/dino-game/">
     <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/protocol_runner.png" alt="Protocol Runner Game" width="100%" />
   </a>
 </p>
