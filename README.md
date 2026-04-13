@@ -138,6 +138,20 @@
 
 </td>
 </tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🧊 SYSTEM_VIRTUALIZATION // INTERACTIVE_MODEL
+<p align="center">
+  <a href="https://github.com/ansonsaju/ansonsaju/blob/main/assets/prototypes/sentinel_v1.stl">
+    <img src="https://img.shields.io/badge/INITIALIZE_3D_INSPECTION-FFDF00?style=for-the-badge&logo=unity&logoColor=black" alt="3D Model" />
+  </a>
+  <br/>
+  <i>Click the button above to rotate, zoom, and inspect the Sentinel V1 (Cyber-Crawler) model natively.</i>
+</p>
+
+</td>
+</tr>
 </table>
 
 ### 📊 GLOBAL_SYSTEM_METRICS
