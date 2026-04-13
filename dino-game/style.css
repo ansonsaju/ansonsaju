@@ -1,0 +1,141 @@
+:root {
+    --bg-color: #0a0a0b;
+    --main-yellow: #ffdf00;
+    --gray-metal: #2c2c2e;
+    --gray-bright: #a1a1a6;
+    --neon-glow: 0 0 10px rgba(255, 223, 0, 0.7);
+    --dark-yellow: #8b7b00;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--main-yellow);
+    font-family: 'Share Tech Mono', monospace;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.cyber-container {
+    width: 90%;
+    max-width: 800px;
+    border: 1px solid var(--gray-metal);
+    padding: 20px;
+    background: linear-gradient(180deg, #111 0%, #050505 100%);
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.8), inset 0 0 10px rgba(255, 223, 0, 0.1);
+    position: relative;
+}
+
+.cyber-container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: repeating-linear-gradient(
+        0deg,
+        rgba(0, 0, 0, 0.1) 0px,
+        rgba(0, 0, 0, 0.1) 1px,
+        transparent 1px,
+        transparent 2px
+    );
+    pointer-events: none;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 20px;
+    border-bottom: 2px solid var(--gray-metal);
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+}
+
+.status-bar {
+    font-size: 0.9rem;
+    display: flex;
+    gap: 20px;
+}
+
+#game-container {
+    width: 100%;
+    height: 300px;
+    background-color: #000;
+    border: 1px solid var(--gray-metal);
+    position: relative;
+    overflow: hidden;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 10;
+}
+
+.overlay p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    text-shadow: var(--neon-glow);
+}
+
+.overlay .sub {
+    font-size: 0.8rem;
+    color: var(--gray-bright);
+}
+
+.hidden {
+    display: none !important;
+}
+
+h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #ff3333;
+    text-shadow: 0 0 10px rgba(255, 51, 51, 0.5);
+}
+
+.retry {
+    margin-top: 20px;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    50% { opacity: 0; }
+}
+
+.footer {
+    margin-top: 15px;
+    font-size: 0.7rem;
+    color: var(--gray-bright);
+    text-align: right;
+}

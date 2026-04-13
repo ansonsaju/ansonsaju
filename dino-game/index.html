@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROTOCOL_RUNNER // CYBER_RAPTOR</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="cyber-container">
+        <div class="header">
+            <h1>SYSTEM_ACCESS: PROTOCOL_RUNNER</h1>
+            <div class="status-bar">
+                <span id="status-text">STATUS: INITIALIZING...</span>
+                <span id="score-val">00000</span>
+            </div>
+        </div>
+        
+        <div id="game-container">
+            <canvas id="gameCanvas"></canvas>
+            <div id="start-screen" class="overlay">
+                <p>PRESS [SPACE] OR TOUCH TO INITIATE JUMP</p>
+                <p class="sub">BYPASS THE VULNERABILITIES // SURVIVE THE MONOLITH</p>
+            </div>
+            <div id="game-over" class="overlay hidden">
+                <h2>CONNECTION_SEVERED</h2>
+                <p>FINAL_SYNC: <span id="final-score">0</span></p>
+                <p class="retry">PRESS [SPACE] TO RE-ESTABLISH</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <code>DEVICE: NEURAL_LINK_v4.2 // LOCATION: SECTOR_7G // ENCRYPTION: ACTIVE</code>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
