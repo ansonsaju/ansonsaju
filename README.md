@@ -98,6 +98,33 @@
 
 <hr/>
 
+## 🕹️ MISSION_CONTROL // CONNECT_FOUR `[ MULTIPLAYER_HUB ]`
+
+<p align="center">
+  A collaborative game of Connect Four. Defend the Monolith or join the fusion.  
+  <b>Click a column to drop your disc!</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C1&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-1-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C2&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-2-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C3&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-3-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C4&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-4-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C5&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-5-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C6&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-6-FF023C?style=for-the-badge" /></a>
+  <a href="https://github.com/ansonsaju/ansonsaju/issues/new?title=c4%7C7&body=Just+press+%27Submit+new+issue%27+to+make+your+move."><img src="https://img.shields.io/badge/COLUMN-7-FF023C?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/connect4.svg" alt="Connect Four Board" width="600px" />
+</p>
+
+<p align="center">
+  <code>COMMUNITY_SCORE: TRACKING_ACTIVE // STATUS: READY_FOR_DEPLOYMENT</code>
+</p>
+
+<hr/>
+
 ## 🏙️ 3D Architectural Skyline `[ RESTORED ]`
 <p align="center">
   <img src="https://raw.githubusercontent.com/ansonsaju/ansonsaju/main/profile-3d-contrib/profile-night-view.svg" alt="3D Architectural Skyline" width="100%" />

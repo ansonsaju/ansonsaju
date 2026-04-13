@@ -1,0 +1,15 @@
+name: Connect4
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Play Connect4
+        uses: JonathanHaver/github-connect4@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
