@@ -92,11 +92,7 @@
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://open.spotify.com/playlist/409qVT0t0vOHuEA7c07AJr">
-    <img src="https://img.shields.io/badge/Spotify-Ambient_Matrix-1DB954?style=for-the-badge&logo=spotify" width="40%"/>
-  </a>
-</p>
+
 
 <hr/>
 
